@@ -1,8 +1,7 @@
 # Analysing Movement Data in Space and Time
 ## Time-series and data-driven Spatio-temporal animations with 33 birds (Golden Eagles) over ten years.
 
-https://mybinder.org/v2/gh/shakasom/movement/master
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shakasom/geocoding/master)
 ![Bird Migration](https://cdn-images-1.medium.com/max/1000/1*STHkqdFSh7nRr7JQ8CHY7g.gif)
 
 Movement data in space and time provide critical information about the behaviour of objects studied, i.e. vehicles, humans, and animals.
